@@ -1,3 +1,5 @@
+test:
+  phrase: "Verification phrase"
 spring:
   datasource:
     username: postgres
