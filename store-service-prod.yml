@@ -1,9 +1,0 @@
-spring:
-  datasource:
-    username: softweb-api
-    password: # In dev
-    url: jdbc:postgresql://localhost:5432/softweb_prod
-  security:
-    user:
-      name: # In dev
-      password: # In dev
